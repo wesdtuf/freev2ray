@@ -1,7 +1,7 @@
 # freevps
 official website: [cloud phala network](https://cloud.phala.network/)
 
-code
+
 services:
   3x-ui:
     image: metaligh/3x-ui:latest
